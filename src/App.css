@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+.navbar {
+  background-color:#f55a5a ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar >h3{
+  color: white;
+}
+
+.logo{
+  margin-right: 6px;
+}
+
+
+
+.card{
+  display: flex;
+
+}
+
+.card-image{
+  width: 126px;
+  height: 168px;
+  border-radius: 6px;
+  padding: 20px;
+}
+
+
+.location{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.location-logo{
+  margin: 5px;
+}
+
+.place{
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+  margin-right: 5px;
+}
+
+.google-link{
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 12px;
+  text-decoration-line: underline;
+  color: #918E9B;
+}
+
+.title{
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: #2B283A;
+  text-align: left;
+  margin: 0;
+
+}
+
+.date{
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+  text-align: left;
+  color: #2B283A;
+}
+
+.description{
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  text-align: left;
+  color: #2B283A;
+}
